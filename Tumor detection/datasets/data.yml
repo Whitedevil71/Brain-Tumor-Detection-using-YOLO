@@ -1,0 +1,6 @@
+path: D:\Project\CV Project\Tumor detection\datasets
+train: D:\Project\CV Project\Tumor detection\datasets\images\train
+val: D:\Project\CV Project\Tumor detection\datasets\images\val
+
+num_classes: 2
+names: [Class 0, Class 1]
