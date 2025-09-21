@@ -42,7 +42,7 @@ We use publicly available **MRI/CT Brain Tumor datasets** (e.g., Kaggle, Brats d
 
 1️⃣ Clone the repository:
 
-git clone https://github.com/YourUsername/Brain-Tumor-Detection.git
+git clone https://github.com/Whitedevil71/Brain-Tumor-Detection.git
 cd Brain-Tumor-Detection
 
 2️⃣ Create a virtual environment (optional but recommended):
